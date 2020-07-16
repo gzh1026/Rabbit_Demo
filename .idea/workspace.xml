@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a925be8-bfbb-4c9b-a77a-a6455ec45b10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../javaweb/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\javaweb\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1ehzEu1AXvoWGquyxwzx2TiJmSS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/rabbit/workfair" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rabbit.topic" />
+      <recent name="com.rabbit.routing" />
+      <recent name="com.rabbit.work" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Myrabbitmq\src\main\java\com\rabbit\workfair" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Recv">
+    <configuration name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.confirm.Recv" />
+      <module name="Myrabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.routing.Recv1" />
+      <module name="Myrabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.routing.Recv2" />
+      <module name="Myrabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.confirm.Send" />
+      <module name="Myrabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.confirm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rabbit.routing.Send" />
+      <module name="Myrabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rabbit.routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Send" />
+      <item itemvalue="Application.Recv1 (2)" />
+      <item itemvalue="Application.Recv2" />
+      <item itemvalue="Application.Send (1)" />
+      <item itemvalue="Application.Recv" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Recv" />
+        <item itemvalue="Application.Send (1)" />
+        <item itemvalue="Application.Recv2" />
+        <item itemvalue="Application.Recv1 (2)" />
+        <item itemvalue="Application.Send" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a925be8-bfbb-4c9b-a77a-a6455ec45b10" name="Default Changelist" comment="" />
+      <created>1594788503496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594788503496</updated>
+      <workItem from="1594788505336" duration="9856000" />
+      <workItem from="1594812340172" duration="13043000" />
+      <workItem from="1594866705688" duration="3892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594826596727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594826596727" />
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1594868809675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594868809675" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1594825997001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594825997001" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1594875376536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594875376536" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1594875376536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594875376536" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1594875376536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594875376536" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1594875376536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594875376536" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594826699330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594826699330" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594826699330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594826699330" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594826699330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594826699330" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594826699330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594826699330" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1594820445438">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594820445438" />
+    <state x="582" y="258" key="extract.method.dialog" timestamp="1594818223802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="258" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1594818223802" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1594795907460">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594795907460" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594796179921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594796179921" />
+  </component>
+</project>
